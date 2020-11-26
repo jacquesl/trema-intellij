@@ -28,7 +28,7 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile group: 'com.netcetera.trema', name: 'trema-core', version: '0.3.0'
-    compile group: 'org.projectlombok', name: 'lombok', version: '1.16.18'
+    compile group: 'org.projectlombok', name: 'lombok', version: '1.18.16'
 
     compile group: 'com.google.guava', name: 'guava', version: '16.0.1'
     compile group: 'org.apache.commons', name: 'commons-csv', version: '1.0'
